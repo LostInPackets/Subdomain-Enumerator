@@ -89,7 +89,7 @@ def main():
 
     # Step 5: Subdomain brute-forcing with dnsx
     print(f"{bcolors.OKCYAN}[5/5]{bcolors.ENDC} Running dnsx brute-forcing...")
-    dnsx_command = f"dnsx -silent -d {domain} -w subdomains-top1million-5000.txt"
+    dnsx_command = f"dnsx -silent -d {domain} -w subdomains-top1million-20000.txt"
     dnsx_output = run_command(dnsx_command)
     if dnsx_output:
         subdomains = extract_subdomains(dnsx_output)
