@@ -4,7 +4,7 @@
 
 Subdomain Enumerator is a Python-based tool designed to streamline the process of enumerating subdomains and identifying live hosts. It integrates multiple tools for robust subdomain discovery and utilizes httpx for checking the reachability of the discovered subdomains.
 
-Features
+## Features
 
 Enumerates subdomains using:
 
