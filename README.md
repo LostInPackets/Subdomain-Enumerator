@@ -12,7 +12,11 @@ subfinder
 
 assetfinder
 
-amass
+Findomain
+
+crt.sh
+
+dnsx
 
 Removes duplicate results automatically.
 
@@ -30,7 +34,11 @@ subfinder
 
 assetfinder
 
-amass
+Findomain
+
+crt.sh
+
+dnsx
 
 httpx
 
