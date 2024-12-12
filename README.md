@@ -48,13 +48,17 @@ Additionally, ensure Python 3 is installed on your system.
 
 ### Clone this repository:
 
+```
 git clone https://github.com/your-username/subdomain-enumerator.git
 
 cd subdomain-enumerator
+```
 
 Install the required Python dependencies (if any):
 
+```
 pip install -r requirements.txt
+```
 
 ## Usage
 
