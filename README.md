@@ -64,7 +64,9 @@ pip install -r requirements.txt
 
 Run the script with the following options:
 
+```
 python subdomain_enumerator.py -d <domain> [-o <output_file>]
+```
 
 ## Arguments
 
@@ -74,7 +76,9 @@ python subdomain_enumerator.py -d <domain> [-o <output_file>]
 
 ## Example
 
+```
 python subdomain_enumerator.py -d example.com -o live_hosts.txt
+```
 
 ## Output
 
