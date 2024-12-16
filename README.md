@@ -1,4 +1,5 @@
 # Subdomain-Enumerator
+Subdomain Enumerator is a Python tool that helps you find subdomains and check if they’re up and running. It uses a bunch of cool tools to dig up subdomains and makes sure they’re live. Results get saved in separate files so you can easily check them out.
 
 ## Overview
 
